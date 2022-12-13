@@ -25,5 +25,5 @@ resource_group_name = "az104-task1"
 
 
 ## visualizer
-<img src="https://github.com/hidiratsiz/RG-VM-Storage-Account-with-Terraform/blob/main/az104-task1.png" width="500px" align="center">
+<img src="https://github.com/hidiratsiz/RG-VM-Storage-Account-with-Terraform/blob/main/az104-task1.png" width="900px" align="center">
 
